@@ -46,7 +46,7 @@
 
 ## 📬 Let's Connect
 
-- 📧 Email: [varunsamyani35@gmail.com](mailto:varunsamyani35@gmail.com)  
+- 📧 Email: [varunsamyani44@gmail.com](mailto:varunsamyani44@gmail.com)  
 - 📱 Phone: +91 9510262900  
 - 🌍 Location: Veraval, Gujarat, India  
 - 💼 Resume: *(You can upload your resume and link it here if available)*
