@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Varun Samiyani 
 
-🎓 I'm currently pursuing a **Diploma in Computer Engineering** at **OM Institute**, graduating in **2025**.  
+🎓 I'm currently pursuing a **B Tech in Computer Engineering** at **Atmiya University**, graduating in **2029**.  
 💻 I'm a passionate **Frontend Web Developer** who loves building modern, responsive websites and user interfaces.  
 🧠 I enjoy **problem-solving**, **learning new technologies**, and turning ideas into real-world solutions.
 
